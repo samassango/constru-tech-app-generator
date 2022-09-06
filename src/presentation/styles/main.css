@@ -1,0 +1,17 @@
+.main-container {
+  display: flex;
+  column-gap: 10px;
+  margin: 5px 0px 5px 0px;
+}
+
+.drag-panel-left {
+  border: 4px #467f8a solid;
+  width: 30%;
+  height: 80vh;
+}
+
+.drag-panel-right {
+  border: 4px #467f8a solid;
+  width: 70%;
+  height: 80vh;
+}

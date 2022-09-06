@@ -1,0 +1,11 @@
+.footer-container {
+  display: flex;
+}
+.footer-box {
+  width: 100%;
+  height: 4rem;
+  border: 2px #467f8a solid;
+}
+p {
+  color: #467f8a;
+}
